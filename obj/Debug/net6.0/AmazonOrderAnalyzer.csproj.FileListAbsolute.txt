@@ -1,0 +1,4 @@
+C:\Users\cjcak\College\Semester13\CSE310\modules\AmazonSummary\obj\Debug\net6.0\AmazonOrderAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjcak\College\Semester13\CSE310\modules\AmazonSummary\obj\Debug\net6.0\AmazonOrderAnalyzer.AssemblyInfoInputs.cache
+C:\Users\cjcak\College\Semester13\CSE310\modules\AmazonSummary\obj\Debug\net6.0\AmazonOrderAnalyzer.AssemblyInfo.cs
+C:\Users\cjcak\College\Semester13\CSE310\modules\AmazonSummary\obj\Debug\net6.0\AmazonOrderAnalyzer.csproj.CoreCompileInputs.cache
