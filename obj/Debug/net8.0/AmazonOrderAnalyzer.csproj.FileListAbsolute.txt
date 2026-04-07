@@ -12,3 +12,4 @@ C:\Users\cjcak\College\Semester13\CSE310\modules\AmazonSummary\obj\Debug\net8.0\
 C:\Users\cjcak\College\Semester13\CSE310\modules\AmazonSummary\obj\Debug\net8.0\AmazonOrderAnalyzer.pdb
 C:\Users\cjcak\College\Semester13\CSE310\modules\AmazonSummary\obj\Debug\net8.0\AmazonOrderAnalyzer.genruntimeconfig.cache
 C:\Users\cjcak\College\Semester13\CSE310\modules\AmazonSummary\obj\Debug\net8.0\ref\AmazonOrderAnalyzer.dll
+C:\Users\cjcak\College\Semester13\CSE310\modules\AmazonSummary\obj\Debug\net8.0\AmazonOrderAnalyzer.sourcelink.json
